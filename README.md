@@ -25,7 +25,7 @@ A command-line calculator built using basic Python input/output, operators, and 
 
 ### 📈 GitHub Stats
 
-![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajpatel2007&show_icons=true&theme=radical)
+![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajpatel2212&show_icons=true&theme=radical)
 
 ---
 
