@@ -19,7 +19,7 @@
 *🧮 Simple Python Calculator*  
 A command-line calculator built using basic Python input/output, operators, and logic.
 
-🔗 [View Code Here](https://github.com/vrajpatel2007/calculator-project)
+🔗 [View Code Here](https://github.com/vrajpatel2007/calculator_project)
 
 ---
 
