@@ -51,4 +51,4 @@ I started learning Python recently and already built multiple real-world mini-pr
 ## 📫 Let's Connect
 
 - GitHub: [vrajpatel2212](https://github.com/vrajpatel2212)  
-- Email: [vrajpatel2007@gmail.com](mailto:vrajpatel2007@gmail.com)
+- Email: [vrajdpatel2007@gmail.com](mailto:vrajpatel2007@gmail.com)
