@@ -1,54 +1,37 @@
-# 👋 Hi, I'm Vraj Patel!
+# 👋 Hello, I'm Vraj Patel
 
-I'm a passionate self-learner diving into Python, projects, and programming logic — one line at a time.  
-I love turning simple code into creative mini-projects that solve real problems.
-
----
-
-## 💡 Currently Learning
-- Python (input, print, if-else, loops, string methods)
-- Git & GitHub
-- Building terminal-based projects
-- Creating a coding habit 🔁
+🎓 I'm currently a first-year Computer Science student passionate about learning Python and building cool beginner-friendly projects!
 
 ---
 
-## 🧩 Featured Projects
-
-### 🧮 Simple Calculator  
-A basic Python calculator using input/output and arithmetic operators.
-
-👉 [View Code](https://github.com/vrajpatel2212/calculator_project)
+## 🔥 Current Projects:
+- 🧠 *Cricket Quiz Game* – Test your cricket knowledge!
+- 🔐 *Login System* – Simple password & phone verification.
+- 🎯 *Guess the Number* – Fun number guessing game using loops and conditions.
 
 ---
 
-### 🏏 Cricket Quiz Game  
-A 5-question cricket quiz built with print(), input() and if-else, with scoring and custom feedback.
-
-👉 [View Code](https://github.com/vrajpatel2212/cricket_quiz_game)
-
----
-
-### 🔐 Login System Project  
-A beginner-friendly login system using password or phone number verification with retry attempts.
-
-👉 [View Code](https://github.com/vrajpatel2212/login_system_project)
+## 🚀 Skills I'm Learning:
+- Python Basics (print, input, if-else)
+- Loops (for, while)
+- Comparison and logic
+- Building console-based games
+- Git & GitHub for uploading my work
 
 ---
 
-## 📊 GitHub Stats
-
-![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajpatel2212&show_icons=true&theme=radical)
-
----
-
-## ✨ Fun Fact
-
-I started learning Python recently and already built multiple real-world mini-projects — all using just basic logic, and I’m not stopping anytime soon! 🚀
+## 🛠 Future Goals:
+- Learn functions and modules
+- Create a portfolio site
+- Start using Tkinter (GUI)
+- Build real-world Python apps
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
+- 📧 Email: *vrajdpatel2007@gmail.com*
+- 🧑‍💻 GitHub: [@vrajpatel2212](https://github.com/vrajpatel2212)
 
-- GitHub: [vrajpatel2212](https://github.com/vrajpatel2212)  
-- Email: [vrajdpatel2007@gmail.com](mailto:vrajpatel2007@gmail.com)
+---
+
+> I'm learning and growing every day—feel free to check out my projects, give suggestions, or collaborate!
