@@ -1,37 +1,45 @@
-# 👋 Hello, I'm Vraj Patel
+# 👋 Hi there, I'm Vraj Patel!
 
-🎓 I'm currently a first-year Computer Science student passionate about learning Python and building cool beginner-friendly projects!
-
----
-
-## 🔥 Current Projects:
-- 🧠 *Cricket Quiz Game* – Test your cricket knowledge!
-- 🔐 *Login System* – Simple password & phone verification.
-- 🎯 *Guess the Number* – Fun number guessing game using loops and conditions.
+🎓 Beginner Python developer on a mission to become a *full-stack developer*  
+🔥 Learning by building real projects with logic and curiosity  
+📫 Reach me at: *vrajdpatel2007@gmail.com*
 
 ---
 
-## 🚀 Skills I'm Learning:
-- Python Basics (print, input, if-else)
-- Loops (for, while)
-- Comparison and logic
-- Building console-based games
-- Git & GitHub for uploading my work
+## 🛠 Languages & Tools I'm Learning
+
+<img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 
 ---
 
-## 🛠 Future Goals:
-- Learn functions and modules
-- Create a portfolio site
-- Start using Tkinter (GUI)
-- Build real-world Python apps
+## 🌟 Featured Projects
+
+### 🧮 Simple Calculator  
+A basic calculator built with just input(), math operators, and clear outputs.  
+👉 [View Code](https://github.com/vrajpatel2212/calculator_project)
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: *vrajdpatel2007@gmail.com*
-- 🧑‍💻 GitHub: [@vrajpatel2212](https://github.com/vrajpatel2212)
+### 🏏 Cricket Quiz Game  
+Fun quiz for cricket lovers with scoring, multiple questions, and if-else logic.  
+👉 [View Code](https://github.com/vrajpatel2212/cricket_quiz_game)
 
 ---
 
-> I'm learning and growing every day—feel free to check out my projects, give suggestions, or collaborate!
+### 🎯 Guess the Number  
+A number guessing game using loops, random numbers, and user interaction.  
+👉 [View Code](https://github.com/vrajpatel2212/guess-the-number-game)
+
+---
+
+## 📊 GitHub Stats
+
+![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajpatel2212&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Fun Fact  
+I started coding from scratch — and now I’m uploading working Python games and systems to GitHub. 💻  
+*This is just the beginning... 🚀*
