@@ -34,7 +34,7 @@ A game where you guess a number between 1–10 within 3 tries.
 
 ### ✊🖐✌ Rock Paper Scissors Game  
 Play Rock, Paper, Scissors against the computer with unlimited rounds!  
-👉 [View Code](https://github.com/vrajpatel2212/rock_paper_scissors_game)
+👉 [View Code](https://github.com/vrajpatel2212/rock-paper-scissors-game)
 
 ---
 
