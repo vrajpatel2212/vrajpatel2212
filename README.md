@@ -28,7 +28,7 @@ A fun Python quiz based on cricket knowledge, using input, print, and if-else lo
 
 ### 🎮 Guess the Number Game  
 A game where you guess a number between 1–10 within 3 tries.  
-👉 [View Code](https://github.com/vrajpatel2212/number_guessing_game)
+👉 [View Code](https://github.com/vrajpatel2212/guess-the-number-game)
 
 ---
 
