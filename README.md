@@ -1,48 +1,32 @@
-# 👋 Hi there, I'm Vraj Patel!
+# 👋 Hey, I'm Vraj Patel
 
-🎓 I'm currently learning Python and building beginner-friendly projects  
-🚀 Goal: Become a full-stack developer and make real-world applications  
-📫 Reach me at: vrajdpatel2007@gmail.com  
-
----
-
-## 🛠 Languages & Tools I'm Learning:
-<img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
+🎯 Passionate Python learner on a mission to master coding through real projects  
+💻 First-year CS student | 🚀 Slowly building my developer journey on GitHub
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧮 Simple Calculator  
-A basic Python calculator using input/output and operators.  
-👉 [View Code](https://github.com/vrajpatel2212/calculator_project)
-
----
-
-### 🏏 Cricket Quiz Game  
-A fun Python quiz based on cricket knowledge, using input, print, and if-else logic.  
-👉 [View Code](https://github.com/vrajpatel2212/cricket_quiz_game)
+## 🧠 What I’m Learning:
+- Python fundamentals
+- Loops, conditions, user input
+- File handling & functions (coming soon)
+- Git & GitHub
 
 ---
 
-### 🎮 Guess the Number Game  
-A game where you guess a number between 1–10 within 3 tries.  
-👉 [View Code](https://github.com/vrajpatel2212/number_guessing_game)
+## 🔨 My Projects:
+
+| 💻 Project                    | 🧠 Concepts Used                      | 🔗 Link |
+|-----------------------------|--------------------------------------|--------|
+| 🎮 Guess the Number Game     | if-else, loops, user input, f-strings | [View](https://github.com/vrajpatel2212/guess-the-number-game) |
+| 🏆 Random Name Picker        | random.choice(), loop, list input  | [View](https://github.com/vrajpatel2212/random-name-picker) |
+| 🏧 ATM Machine Project       | Loops, if-else, balance handling, bonus challenges | [View](https://github.com/vrajpatel2212/atm_machine_project) |
 
 ---
 
-### ✊🖐✌ Rock Paper Scissors Game  
-Play Rock, Paper, Scissors against the computer with unlimited rounds!  
-👉 [View Code](https://github.com/vrajpatel2212/rock_paper_scissors_game)
+## 🔗 Connect With Me:
+📧 Email: vrajdpatel2007@gmail.com  
+👨‍💻 GitHub: [@vrajpatel2212](https://github.com/vrajpatel2212)
 
 ---
 
-## 📊 GitHub Stats:
-![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrajpatel2212&show_icons=true&theme=radical)
-## 📧 Email:
-vrajdpatel2007@gmail.com
----
-
-## 🧠 Fun Fact  
-I just started learning Python and already made multiple cool projects! 🎉
+> 🚀 More beginner-friendly Python projects coming daily — follow along and level up with me!
