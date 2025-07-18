@@ -46,7 +46,7 @@ Simulates an ATM machine with balance checking, withdrawal, deposit, and pin pro
 
 ### 🧠 Login System (3 Attempts)  
 A login system where you get 3 chances to enter correct credentials.  
-👉 [View Code](https://github.com/vrajpatel2212/login-system)
+👉 [View Code](https://github.com/vrajpatel2212/login_system_project)
 
 ---
 
